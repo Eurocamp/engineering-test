@@ -57,6 +57,8 @@ Please note: During the technical interview, you will be asked to explain sectio
 
 ## Task 3 (1 hour)
 
+:warning: Please note that you should just picks the tasks that fit your specialisation e.g. backend developers should choose `[Backend]` tasks. <i>Do not do all the tasks</i>
+
 The API at localhost:3001 is what you will communicate with. It has 3 entity collections with various CRUD operations. 
 
 However some of the endpoints do fail sometimes and return exceptions or 500 error responses every so often.
