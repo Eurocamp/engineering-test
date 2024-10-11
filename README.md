@@ -45,7 +45,7 @@ With all tasks - **please add comments, utilise tests and submit clear instructi
 
 Task 1 & 2 notes along with anything else you want to say can be placed in `NOTES.md`.
 
-Please note: During the tecnical interview, you may be asked to explain sections of this test, you may also be asked to share your screen to talk through any notes or code directly.
+Please note: During the tecnical interview, you may be asked to explain sections of this test, and / or be asked to share your screen to demonstrate your code.
 
 ## Task 1 (15 minutes)
 
